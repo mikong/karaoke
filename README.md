@@ -3,7 +3,7 @@ jpop + jrock lyrics romaji
 
 ## Song List
 
-0. Title in Romaji (Title in Kanji) - Singer/Band - Description
+No. Title in Romaji (Title in Kanji) - Singer/Band - Description
 
 1. Nanka Shiawase (なんか幸せ) - TOM*CAT - Flame of Recca OP
 2. Hohoemi no Bakudan (微笑みの爆弾) - Matsuko Mawatari (馬渡 松子) - Yu Yu Hakusho OP
