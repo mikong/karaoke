@@ -9,6 +9,7 @@ No. Title in Romaji (Title in Kanji) - Singer/Band - Description
 2. Hohoemi no Bakudan (微笑みの爆弾) - Matsuko Mawatari (馬渡 松子) - Yu Yu Hakusho OP
 3. Kimi ga Suki da to Sakebitai (君が好きだと叫びたい) - Baad - Slam Dunk OP
 4. Cha-la Head Cha-la - Yukinojo Mori (森雪之丞) - Dragon Ball Z OP
+5. First Love - Hikaru Utada (宇多田ヒカル)
 
 ## References
 
