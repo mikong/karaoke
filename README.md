@@ -11,6 +11,7 @@ No. Title in Romaji (Title in Kanji) - Singer/Band - Description
 4. Cha-la Head Cha-la - Yukinojo Mori (森雪之丞) - Dragon Ball Z OP
 5. First Love - Hikaru Utada (宇多田ヒカル)
 6. One More Time, One More Chance - Masayoshi Yamazaki (山崎 まさよし) - 5 Centimeters Per Second ED
+7. Magia (マギア) - Kalafina - Puella Magi Madoka Magica ED
 
 ## References
 
