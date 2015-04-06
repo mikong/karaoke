@@ -10,6 +10,7 @@ No. Title in Romaji (Title in Kanji) - Singer/Band - Description
 3. Kimi ga Suki da to Sakebitai (君が好きだと叫びたい) - Baad - Slam Dunk OP
 4. Cha-la Head Cha-la - Yukinojo Mori (森雪之丞) - Dragon Ball Z OP
 5. First Love - Hikaru Utada (宇多田ヒカル)
+6. One More Time, One More Chance - Masayoshi Yamazaki (山崎 まさよし) - 5 Centimeters Per Second ED
 
 ## References
 
