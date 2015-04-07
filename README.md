@@ -12,7 +12,9 @@ No. Title in Romaji (Title in Kanji) - Singer/Band - Description
 5. First Love - Hikaru Utada (宇多田ヒカル)
 6. One More Time, One More Chance - Masayoshi Yamazaki (山崎 まさよし) - 5 Centimeters Per Second ED
 7. Magia (マギア) - Kalafina - Puella Magi Madoka Magica ED
+8. Good-bye Days - YUI - Theme song for Midnight Sun film
 
 ## References
 
 * [Anime Lyrics](http://www.animelyrics.com/)
+* [Kiwi Musume](http://www.kiwi-musume.com)
