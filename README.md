@@ -14,6 +14,7 @@ No. Title in Romaji (Title in Kanji) - Singer/Band - Description
 7. Magia (マギア) - Kalafina - Puella Magi Madoka Magica ED
 8. Good-bye Days - YUI - Theme song for Midnight Sun film
 9. Again - YUI - Fullmetal Alchemist: Brotherhood OP1
+10. Zankoku na Tenshi no Tēze (残酷な天使のテーゼ) - Yoko Takahashi (高橋 洋子) - Neon Genesis Evangelion OP
 
 ## References
 
