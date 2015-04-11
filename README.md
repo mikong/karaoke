@@ -16,6 +16,7 @@ No. Title in Romaji (Title in Kanji) - Singer/Band - Description
 9. Again - YUI - Fullmetal Alchemist: Brotherhood OP1
 10. Zankoku na Tenshi no Tēze (残酷な天使のテーゼ) - Yoko Takahashi (高橋 洋子) - Neon Genesis Evangelion OP
 11. Haruka Kanata (遥か彼方) - Asian Kung-Fu Generation (アジアン・カンフー・ジェネレーション) - Naruto OP2
+12. Driver's High - L'Arc-en-Ciel - Great Teacher Onizuka OP1
 
 ## References
 
