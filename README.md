@@ -17,6 +17,7 @@ No. Title in Romaji (Title in Kanji) - Singer/Band - Description
 10. Zankoku na Tenshi no Tēze (残酷な天使のテーゼ) - Yoko Takahashi (高橋 洋子) - Neon Genesis Evangelion OP
 11. Haruka Kanata (遥か彼方) - Asian Kung-Fu Generation (アジアン・カンフー・ジェネレーション) - Naruto OP2
 12. Driver's High - L'Arc-en-Ciel - Great Teacher Onizuka OP1
+13. Sekai wa Sore o Ai to Yobundaze (世界はそれを愛と呼ぶんだぜ) - Sambomaster (サンボマスター) - Densha Otoko ED
 
 ## References
 
